@@ -21,5 +21,7 @@ The implemented framework enables:
 ## Reference
 If you use this toolbox, please cite the associated study describing the method:
 **Pinto, H.**, Dias, C., Vergara, V. R., Barà, C., Pernice, R., Rocha, A. P., Faes, L., and Antonacci, Y. (2025). Time-Frequency Linear Interdependence Measures Reveal Multivariate Patterns of Cerebrovascular-Autonomic Interactions in Traumatic Brain Injury. *Under Submission*.
+
+
 **Antonacci, Y.**, C Bara, L Sparacino, G Mijatovic, L Minati, L Faes, A method for the time-frequency analysis of high-order interactions in non-stationary physiological networks." Journal of Neural Engineering 22.6 (2025): 066001.
 
