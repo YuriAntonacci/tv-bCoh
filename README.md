@@ -19,7 +19,9 @@ The implemented framework enables:
 - **Functions folder**: contains the core functions implementing the time–frequency and TV-VAR analysis
 
 ## Reference
-If you use this toolbox, please cite the associated study describing the method:
+If you use this toolbox, please cite the associated studies describing the method:
+
+
 **Pinto, H.**, Dias, C., Vergara, V. R., Barà, C., Pernice, R., Rocha, A. P., Faes, L., and Antonacci, Y. (2025). Time-Frequency Linear Interdependence Measures Reveal Multivariate Patterns of Cerebrovascular-Autonomic Interactions in Traumatic Brain Injury. *Under Submission*.
 
 
